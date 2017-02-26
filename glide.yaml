@@ -1,0 +1,7 @@
+package: github.com/utahta/go-swagger-ui
+import:
+- package: github.com/pkg/browser
+- package: github.com/jessevdk/go-flags
+  version: ^1.2.0
+- package: github.com/elazarl/go-bindata-assetfs
+- package: github.com/go-openapi/runtime
