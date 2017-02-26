@@ -14,7 +14,7 @@ go get -u github.com/utahta/swagger-doc/cmd/swagger-doc
 ### Local file
 
 ```bash
-swagger-doc -f /path/to/swagger.json
+swagger-doc -s /path/to/swagger.json
 ```
 then open browser.
 
@@ -22,7 +22,7 @@ then open browser.
 ### URL
 
 ```bash
-swagger-doc -f http://localhost/swagger.json
+swagger-doc -s http://localhost/swagger.json
 ```
 then open browser.
 
